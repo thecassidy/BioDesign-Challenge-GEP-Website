@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+	  <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+  </head>
+  <body>
+  <div class="bg">
+	<div style="button1" >
+		button 1
+	</div>
+	<div style="button2">
+		button 2
+	</div>
+	<div style="button3">
+		button 3
+	</div>
+	<div style="button4">
+		button 4
+	</div>
+		<div style="button5">
+		button 5
+	</div>
+  </div>
+  </body>
+</html>
